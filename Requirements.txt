@@ -1,0 +1,41 @@
+User-
+	-Register
+		-name
+		-email
+		-phone
+
+	-select movies or events
+	-select venue for selected option
+	-select no of people
+	-select seats from layout
+	-do payment
+
+Admin-
+	-Add movies/events
+		-movie name
+		-movie durations
+		-cast and crew
+		-small description
+	-Manage pricing
+	-discounts/coupons
+
+App features-
+	User-
+		-can see his/her pewvious bookings
+		-can rate the movie
+		-check payment status
+		-option to cancel booking
+	Admin-
+		-can see stats related to movie
+			-No of tickets booked
+			-Ratings and reviews
+
+Payment-
+	-Add any eligible coupon
+	-select payment option(credit/debit/net banking)
+	-Payment success/failure
+
+Notification-
+	-User
+		-notify after booking regarding status
+		-reminder for showtime
